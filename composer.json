@@ -1,0 +1,11 @@
+{
+    "name": "ericauroradtc/demo",
+    "description": "this is a test",
+    "authors": [
+        {
+            "name": "ericAuroraDtc",
+            "email": "shen.weidongwf@gmail.com"
+        }
+    ],
+    "require": {}
+}
